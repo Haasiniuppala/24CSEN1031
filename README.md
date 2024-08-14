@@ -1,2 +1,2 @@
 # 24CSEN1031
-Learning problem solving using c language
+Learning Problem Solving Using C Language
