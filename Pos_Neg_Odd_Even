@@ -1,0 +1,42 @@
+#include <stdio.h>
+
+int main() 
+{
+    int a;
+    printf("Enter an integer (Positive or Negative): ");
+    scanf("%d", &a);
+    
+    if (a > 0) 
+    {
+      printf("The number %d is Positive", a);
+      if (a %2 == 0)
+        printf("\nThe number is Even");
+      else
+        printf("\nThe number is Odd");
+    }
+    
+    else if (a < 0)
+      printf("The number %d is Negative", a);
+    else
+        printf("The number %d is Zero", a);
+    
+    return 0;
+}
+
+/*  OUTPUT
+
+Enter an integer (Positive or Negative): 7
+The number 7 is Positive
+The number is Odd
+
+Enter an integer (Positive or Negative): 8
+The nubmber 8 is Positive
+The number is Even
+
+Enter an integer (Positive or Negative): -6
+The number -6 is Negative
+
+Enter an integer (Positive or Negative): 0
+The number 0 is Zero
+
+*/
