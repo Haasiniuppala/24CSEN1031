@@ -1,0 +1,17 @@
+#include <stdio.h>
+
+int main() {
+    int a ;
+    printf("Enter a number : ");
+    scanf("%d" , &a);
+    printf("Decimal representation: %d \nOctal representation: %o\nHexademical representation: %x\nDecimal representation: %b", a, a, a);
+
+    return 0;
+}
+
+/*
+Enter a number : 15
+Decimal representation: 15 
+Octal representation: 17
+Hexademical representation: f 
+*/
