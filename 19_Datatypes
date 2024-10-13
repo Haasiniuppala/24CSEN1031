@@ -1,0 +1,13 @@
+# include <stdio.h>
+
+int main() 
+{
+  printf("size of the char datatype is %d bytes\n " , sizeof(char));
+  printf("size of the short datatype is %d bytes\n " , sizeof(short));
+  printf("size of the int datatype is %d bytes\n " , sizeof(int));
+  printf("size of the float datatype is %d bytes\n " , sizeof(float));
+  printf("size of the long datatype is %d bytes\n " , sizeof(long));
+  printf("size of the double datatype is %d bytes\n " , sizeof(double));
+   
+   return 0;
+}
