@@ -1,0 +1,12 @@
+#include <stdio.h>
+
+int main() 
+{
+    int num;
+    printf("Enter a number: ");
+    scanf("%d", &num);
+    
+    printf("Twice the value of entered number is : %d " , 2*num );
+    
+    return 0;
+}   
