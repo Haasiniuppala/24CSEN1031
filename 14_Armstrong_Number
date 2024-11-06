@@ -4,8 +4,10 @@
 int main() 
 {
     int number, original, remainder, digits = 0, sum = 0;
+    
+   printf("CHECKING WHEATHER THE ENTERED NUMBER IS AN ARMSTRONG : ");
 
-    printf("Enter a positive integer: ");
+    printf("\nEnter a positive integer: ");
     scanf("%d", &number);
 
     // Check if the number is positive
@@ -37,7 +39,7 @@ int main()
     // Check if the sum is equal to the original number
     if (sum == original) 
     {
-        printf("%d is an Armstrong number.\n", original);
+        printf("%d is an Armstrong number \n", original);
     } 
     
     else 
@@ -47,3 +49,13 @@ int main()
 
     return 0;
 }
+
+/*
+OUTPUT
+
+CHECKING WHEATHER THE ENTERED NUMBER IS AN ARMSTRONG : 
+Enter a positive integer: 153
+153 is an Armstrong number.
+
+=== Code Execution Successful ===
+*/
