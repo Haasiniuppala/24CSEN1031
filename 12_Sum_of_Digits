@@ -3,8 +3,10 @@
 int main() 
 {
     int number, sum = 0;
+
+    printf("SUM OF THE ENTERED NUMBER IS : ");
     
-    printf("Enter a positive integer: ");
+    printf("\nEnter a positive integer: ");
     scanf("%d", &number);
 
     // Check if the number is positive
