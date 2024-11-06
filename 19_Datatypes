@@ -11,3 +11,17 @@ int main()
    
    return 0;
 }
+
+/*
+OUTPUT
+
+size of the char datatype is 1 bytes
+ size of the short datatype is 2 bytes
+ size of the int datatype is 4 bytes
+ size of the float datatype is 4 bytes
+ size of the long datatype is 8 bytes
+ size of the double datatype is 8 bytes
+
+=== Code Execution Successful ===
+
+*/
