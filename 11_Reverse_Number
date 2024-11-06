@@ -32,4 +32,8 @@ int main()
 
 /* output
 
+REVERSE ORDER OF THE VARIABLE IS : 
+Enter a positive integer: 567
+Digits in reverse order: 765
+
 */
