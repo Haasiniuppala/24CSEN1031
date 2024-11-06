@@ -17,3 +17,13 @@ int main()
     return 0;
 }
     
+/*
+OUTPUT
+
+Enter first number = 78
+Enter second number = 98
+The smallest of two numbers is = 78 
+
+=== Code Execution Successful ===
+
+*/
