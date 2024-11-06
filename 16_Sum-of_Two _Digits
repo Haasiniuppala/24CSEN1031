@@ -17,4 +17,12 @@ int main()
     
     return 0;
 }
-    
+
+/*OUTPUT
+Enter first number = 67
+Enter second number = 98
+Their sum is = 165 
+
+=== Code Execution Successful ===
+
+*/
