@@ -10,3 +10,13 @@ int main()
     
     return 0;
 }   
+
+/*
+OUTPUT
+
+Enter a number: 70
+Twice the value of entered number is : 140 
+
+=== Code Execution Successful ===
+
+*/
