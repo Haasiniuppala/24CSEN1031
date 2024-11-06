@@ -12,3 +12,13 @@ int main()
     
     return 0;
 }
+
+/*
+OUTPUT
+
+Enter a number: 56
+remainder: 6 
+
+=== Code Execution Successful ===
+
+*/
