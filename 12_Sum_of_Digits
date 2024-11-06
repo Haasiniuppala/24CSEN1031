@@ -26,3 +26,15 @@ int main()
     printf("The sum of the digits is: %d\n", sum);
     return 0;
 }
+
+/*
+OUTPUT
+
+SUM OF THE ENTERED NUMBER IS : 
+Enter a positive integer: 567
+The sum of the digits is: 18
+
+
+=== Code Execution Successful ===
+
+*/
