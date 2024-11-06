@@ -3,8 +3,10 @@
 int main() 
 {
     long number; // To hold large integers
+
+    printf("REVERSE ORDER OF THE VARIABLE IS : ");
     
-    printf("Enter a positive integer: ");
+    printf("/nEnter a positive integer: ");
     scanf("%ld", &number);
 
     // Check if the number is positive
@@ -26,10 +28,8 @@ int main()
     printf("\n");
     return 0;
 }
+
+
 /* output
-Enter a positive integer: 483
-Digits in reverse order: 384
 
-
-=== Code Execution Successful ===
 */
